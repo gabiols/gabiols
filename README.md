@@ -1,4 +1,6 @@
-### Hi there 👋
+### Opa consagrados 👋
+### Estudante do Alura aq
+### Terceiro ano do médio
 
 <!--
 **gabiols/gabiols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
